@@ -1,0 +1,10 @@
+#include <iostream>
+
+int main() {
+ int i;
+ for(i=1; i<=5;i++);
+  {
+    printf("안녕하쌤");
+    }
+  return 0;
+}
